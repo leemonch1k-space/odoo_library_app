@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_library_book_admin,library.book.admin,model_library_book,base.group_user,1,1,1,1
+access_library_rent_admin,library.rent.admin,model_library_rent,base.group_user,1,1,1,1
+access_rent_book_wizard,rent.book.wizard,model_rent_book_wizard,base.group_user,1,1,1,1
